@@ -17,6 +17,7 @@ setup(
     author_email = "dnielm@gmail.com",
     description = ("process name managment."),
     license = "Bsd",
+    platforms = ['GNU/Linux'],
     keywords = "process name",
     url = "https://github.com/Nievous/pyprocess",
     packages=['pyprocess'],
