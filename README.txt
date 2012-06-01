@@ -1,6 +1,13 @@
 Install:
+using easy_install:
+- sudo easy_install pyprocess
+
+using pip:
+- pip install pyprocess
+
+from source:
 - python setup.py install.
-Develop:
+(for Develop):
 - python setup.py develop.
 
 Usage:
