@@ -18,7 +18,7 @@ setup(
     description = ("process name managment."),
     license = "New Bsd License",
     keywords = "process name",
-    url = "http://www.opensource.org/licenses/bsd-license.php",
+    url = "https://github.com/Nievous/pyprocess",
     packages=['pyprocess'],
     install_requires = ['setproctitle'],
     long_description=read('README.txt'),

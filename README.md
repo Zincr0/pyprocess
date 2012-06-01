@@ -9,3 +9,5 @@ Usage:
 - setSingleProcess("somename")
 
 If all was ok, setSingleProcess will return True. 
+
+License: http://www.opensource.org/licenses/bsd-license.php
