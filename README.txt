@@ -1,14 +1,12 @@
-Install:
-using easy_install:
-- $ sudo easy_install pyprocess
+Package to create a single unique process based on changing its name using setproctitle.
 
-using pip:
-- $ sudo pip install pyprocess
+- Installation using easy_install: $ sudo easy_install pyprocess
 
-from source:
-- $ python setup.py install.
+- using pip: $ sudo pip install pyprocess
 
-- (or for Develop): $ python setup.py develop.
+- from source: $ python setup.py install.
+
+- (or for develop): $ python setup.py develop.
 
 Usage:
 

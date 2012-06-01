@@ -3,17 +3,13 @@ pyprocess
 
 Package that includes a function to create a single unique process based on changing its name using setproctitle.
 
-Install:
-using easy_install:
-- $ sudo easy_install pyprocess
+- Installation using easy_install: $ sudo easy_install pyprocess
 
-using pip:
-- $ sudo pip install pyprocess
+- using pip: $ sudo pip install pyprocess
 
-from source:
-- $ python setup.py install.
+- from source: $ python setup.py install.
 
-- (or for Develop): $ python setup.py develop.
+- (or for develop): $ python setup.py develop.
 
 Usage:
 
