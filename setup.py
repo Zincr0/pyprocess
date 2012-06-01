@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name = "pyprocess",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "Daniel Mondaca",
     author_email = "dnielm@gmail.com",
     description = ("process name managment."),
