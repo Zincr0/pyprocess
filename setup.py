@@ -25,7 +25,7 @@ setup(
     long_description=read('README.txt'),
     package_data = {'package' : files },
     classifiers=[
-        "Development Status :: 0 - Alpha",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: BSD License",
         "Operating System :: POSIX :: Linux",
